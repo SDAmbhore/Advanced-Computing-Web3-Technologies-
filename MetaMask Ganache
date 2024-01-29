@@ -1,0 +1,14 @@
+Install Ganache -> Quickstart 
+Download MetaMask Extension in Chrome
+Create a new wallet
+Pin the extension
+Click on extension
+Settings -> Network -> Add network -> Add network manually
+Go to Ganache. Copy RPC Server link
+Go to MetaMask. Add network. Paste RPC Server link. Chain ID: 1337. Currency symbol: ETH. Save
+Click on Account. Add hardware wallet. 
+Go to Ganache. Copy Address. 
+Paste in details (Key & Address) 
+
+Click on Account 2.
+Send money.
