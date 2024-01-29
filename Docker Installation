@@ -1,0 +1,23 @@
+Go CMD
+wsl --install
+sudo apt update
+sudo apt upgrade
+apt-get install –y node.js
+
+Open docker
+Settings -> resources -> enable Ubuntu
+Type docker in CMD
+Sudo docker ps
+Sudo docker run nodejs
+
+Open windows powershell
+Docker run node.js
+Apt install nodejs
+Nodejs –version
+
+Install other languags in similar way
+Apt install snap
+Snap install go –classic
+Snap install solc
+Snap install java
+Snap install openjdk 
